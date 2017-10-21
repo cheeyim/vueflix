@@ -1,2 +1,4 @@
 # vueflix
-convert codepen to vue-cli webpack template
+Convert codepen app to vue-cli webpack template
+
+Credit to this codepen link - https://codepen.io/itslit/full/MvvjZr
